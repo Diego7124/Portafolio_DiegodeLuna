@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.local
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+qa-*.png
+qa2-*.png
+qa3-*.png
+qa-browser-*.png

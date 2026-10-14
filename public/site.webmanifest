@@ -1,0 +1,12 @@
+{
+  "name": "Diego de Luna — Portafolio",
+  "short_name": "DDL",
+  "lang": "es-MX",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
